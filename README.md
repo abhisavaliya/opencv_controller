@@ -25,8 +25,6 @@ OpenCV will detect the color through #webcam, calculates the angle of rotation w
 
 Special thanks to Aaron Callard and Hatem Abou-zeid, PhD for guidance to use OpenCV efficiently. 
 
-I will be uploading code in this week on #GitHub.
-
 Please give feedback or suggestions to improve the experience. Thanks a lot :)
 
 Credits:
