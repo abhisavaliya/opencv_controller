@@ -24,9 +24,9 @@ Install the Requirements: opencv
 1:38 2nd UI to just play games and no exercise
 
 # Paper Use:
-`Green`: Forward and angle
-`Yellow`: #Nitrous
-`Blue`: Brakes and backwards
+* `Green`: Forward and angle
+* `Yellow`: #Nitrous
+* `Blue`: Brakes and backwards
 
 # Working:
 OpenCV will detect the color through webcam, calculates the angle of rotation which is used for calculating the hand movements and direction of the car. 
@@ -36,6 +36,14 @@ OpenCV will detect the color through webcam, calculates the angle of rotation wh
 # Please give feedback or suggestions to improve the experience. Thanks a lot :)
 
 # Credits:
-1)  OpenCV : https://opencv.org/
-2)  EA Sports for Need For Speed Most Wanted (2005) : https://www.ea.com/games/need-for-speed/need-for-speed-most-wanted-2005
-3)  directkeys.py: https://stackoverflow.com/questions/14489013/simulate-python-keypresses-for-controlling-a-game
+1)  [OpenCV](https://opencv.org/)
+2)  [EA Sports for Need For Speed Most Wanted (2005)](https://www.ea.com/games/need-for-speed/need-for-speed-most-wanted-2005)
+3)  [directkeys.py](https://stackoverflow.com/questions/14489013/simulate-python-keypresses-for-controlling-a-game)
+
+# Follow me for more updates: [LinkedIn](https://www.linkedin.com/in/abhisavaliya/)
+* I will try my best to bring in more applications. Thanks for viewing :) Feedbacks and suggestions are appreciated
+
+# To-Do
+1) Add files
+2) Improve the code
+3) Make more applications :)
