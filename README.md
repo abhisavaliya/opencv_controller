@@ -31,7 +31,7 @@ Install the Requirements: opencv
 # Working:
 OpenCV will detect the color through webcam, calculates the angle of rotation which is used for calculating the hand movements and direction of the car. 
 
-# Special thanks to Aaron Callard and Hatem Abou-zeid, PhD for guidance to use OpenCV efficiently. Also, sentdex for tutorial on key press
+# Special thanks to Aaron Callard and Hatem Abou-zeid, PhD for guidance to use OpenCV efficiently. Also, [sentdex](https://www.youtube.com/user/sentdex) for tutorial on key press
 
 # Please give feedback or suggestions to improve the experience. Thanks a lot :)
 
