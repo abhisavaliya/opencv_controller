@@ -18,6 +18,7 @@ Install the Requirements: opencv
 3)  Controller is free of cost 
 
 # Video Walkthrough:
+* [Video](https://www.linkedin.com/posts/abhisavaliya_physical-games-nfs-activity-6583916587336769536-o6Do)
 * 0:00 Start of Video (purposely driven into the city to check the turning of the car (based on the angle))
 * 1:30 Shows results at the end (not accurate now, need to work on that)
 * 1:35 Pages used to control the game
