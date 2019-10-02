@@ -2,10 +2,11 @@
 # Game Controller using OpenCV (Just Paper) | Make Physical Therapy (Physiotherapy) Exciting 
 
 # Short Intro
-Playing games like Need for Speed Most Wanted (NFS) using OpenCV (NO Keyboard required). Paper acts as a controller. (Works with any racing games and like GTA Vice City (tested)).
+Playing games like `Need for Speed Most Wanted (NFS)` using `OpenCV (NO Keyboard required)`. `Paper` acts as a controller. (Works with any racing games and like GTA Vice City (tested)).
 
 # How to use it:
 Requirement: 3 Paper (Green, Yellow, Blue)
+Install the Requirements: opencv
 1)  Clone the repository
 2)  Start the game (Racing Game)
 3)  Execute nfs.py file
@@ -23,9 +24,9 @@ Requirement: 3 Paper (Green, Yellow, Blue)
 1:38 2nd UI to just play games and no exercise
 
 # Paper Use:
-Green: Forward and angle
-Yellow: #Nitrous
-Blue: Brakes and backwards
+`Green`: Forward and angle
+`Yellow`: #Nitrous
+`Blue`: Brakes and backwards
 
 # Working:
 OpenCV will detect the color through webcam, calculates the angle of rotation which is used for calculating the hand movements and direction of the car. 
@@ -38,5 +39,3 @@ OpenCV will detect the color through webcam, calculates the angle of rotation wh
 1)  OpenCV : https://opencv.org/
 2)  EA Sports for Need For Speed Most Wanted (2005) : https://www.ea.com/games/need-for-speed/need-for-speed-most-wanted-2005
 3)  directkeys.py: https://stackoverflow.com/questions/14489013/simulate-python-keypresses-for-controlling-a-game
-
-
